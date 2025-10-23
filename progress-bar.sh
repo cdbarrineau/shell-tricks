@@ -11,6 +11,6 @@ for (( progress=0; progress<=total_steps; progress++ )); do
 
   echo -ne "\r[${bar}]"
   sleep 0.5
-
 done
+echo
 
