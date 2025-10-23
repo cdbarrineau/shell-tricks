@@ -46,12 +46,14 @@ def spinner():
             time.sleep(0.5)
 
 if __name__ == '__main__':
-    # multi_step()
+    multi_step()
     
-    # print ()
+    print ()
     
-    # single_step()
+    single_step()
+    
+    print()
     
     spinner()
     
-    print()
+    print('Done')
